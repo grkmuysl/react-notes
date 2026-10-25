@@ -1274,4 +1274,4 @@ export function YaziFormu() {
 
 ---
 
-⬅️ Önceki: [22 · TypeScript ile React](./22-typescript.md)
+⬅️ Önceki: [22 · TypeScript ile React](./22-typescript.md) · ➡️ Sonraki: [24 · Mülakat Soruları](./24-mulakat-sorulari.md)
